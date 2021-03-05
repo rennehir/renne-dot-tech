@@ -1,8 +1,7 @@
 {
   "root": true,
   "project": {
-    "name": "renne-dot-tech",
-    "basePath": "/studio"
+    "name": "renne-dot-tech"
   },
   "api": {
     "projectId": "sh0o08ts",
@@ -13,8 +12,7 @@
     "@sanity/components",
     "@sanity/default-layout",
     "@sanity/default-login",
-    "@sanity/desk-tool",
-    "media"
+    "@sanity/desk-tool"
   ],
   "env": {
     "development": {

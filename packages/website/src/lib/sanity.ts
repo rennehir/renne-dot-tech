@@ -10,7 +10,7 @@ import {
 import type { ClientConfig } from 'next-sanity';
 
 import { SanityImageSource } from 'types';
-import sanityConfig from '../../studio/sanity.json';
+import sanityConfig from '../../../studio/sanity.json';
 
 const config: ClientConfig = {
   /**
